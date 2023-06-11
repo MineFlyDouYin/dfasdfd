@@ -1,0 +1,9 @@
+name = "blog"
+type = "webpack"
+route = 'blog.yaoruntong93.workers.dev'
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./public",entry-point = "workers-site"}
+compatibility_date = "2023-06-11"
